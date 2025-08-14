@@ -1,0 +1,9 @@
+{
+  "name": "Sentence Base Web",
+  "short_name": "Sentence Base",
+  "start_url": "index.html",
+  "scope": "./",
+  "theme_color": "#1b1b1b",
+  "background_color": "#1b1b1b",
+  "display": "standalone"
+}
